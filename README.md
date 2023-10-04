@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Skills
+![skills](https://github.com/divasharma3/divasharma3/assets/99474387/81d689fa-caed-4115-8b96-2671bd4c6b12)
+
 <!--
 **divasharma3/divasharma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
